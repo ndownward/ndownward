@@ -4,15 +4,15 @@ I'm a curious and enthusiastic developer. passionate about learning new skills a
 Take off your jacket, stay a while!
 <br>
 # I am...
-⚡ An Applied Computer Science student @ Dalhousie University<br>
-⚡ A front-end developer @ Lockheed Martin<br>
-⚡ An advocate for women in tech<br>
+⚡ An <b>Applied Computer Science</b> student @ <b>Dalhousie University</b><br>
+⚡ A <b>front-end developer</b> @ <b>Lockheed Martin</b><br>
+⚡ An <b>advocate</b> for <b>women in tech</b><br>
 
 # The Tech
-Web Dev: HTML, CSS, Javascript, PHP, React JS, Next JS<br>
-Mobile Dev: AndroidStudio, Java<br>
-Game Dev: Unity, C#<br>
-Data scince: Python, SQL, MongoDB<br>
+<b>Web Dev:</b> HTML, CSS, Javascript, PHP, React JS, Next JS<br>
+<b>Mobile Dev:</b> AndroidStudio, Java<br>
+<b>Game Dev:</b> Unity, C#<br>
+<b>Data scince:</b> Python, SQL, MongoDB<br>
 
 # Don't be shy, let's connect!
 <a href="https://www.linkedin.com/in/nicola-downward" rel="nofollow">
