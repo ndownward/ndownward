@@ -18,7 +18,6 @@ Data scince: Python, SQL, MongoDB<br>
 <a href="www.linkedin.com/in/nicola-downward">
   <img src="https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward">
 </a>
-<br>
 <a href="mailto:nicoladownward@dal.ca">
   <img src="https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca">
 </a>
