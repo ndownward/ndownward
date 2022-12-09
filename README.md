@@ -1,27 +1,26 @@
 ### Hello world, I'm Nicola! 👋
-I'm a curious and enthusiastic developer. passionate about learning new skills and exploring new sectors of the tech industry. I thrive under pressure and am always ready for a challenge - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.
+I'm a curious and enthusiastic developer. passionate about learning new skills and exploring new sectors of the tech industry. I thrive under pressure and am always ready for a challenge - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.<br>
 <br>
 Take off your jacket, stay a while!
 <br>
-## I am...
+# I am...
 ⚡ An Applied Computer Science student @ Dalhousie University<br>
 ⚡ A front-end developer @ Lockheed Martin<br>
-⚡ An advocate for women in tech<<br>
+⚡ An advocate for women in tech<br>
 
-## The Tech
-Web Dev: HTML, CSS, Javascript, PHP, React JS, Next JS
-Mobile Dev: AndroidStudio, Java
-Game Dev: Unity, C#
-Data scince: Python, SQL, MongoDB
-<br>
+# The Tech
+Web Dev: HTML, CSS, Javascript, PHP, React JS, Next JS<br>
+Mobile Dev: AndroidStudio, Java<br>
+Game Dev: Unity, C#<br>
+Data scince: Python, SQL, MongoDB<br>
 
-## Don't be shy, let's connect!
+# Don't be shy, let's connect!
 <a href="www.linkedin.com/in/nicola-downward">
-  ![LinkedIn](https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward)
+  img="![LinkedIn](https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward)"
 </a>
 <br>
 <a href="mailto:nicoladownward@dal.ca">
-  ![Microsoft-Outlook](https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca)
+  img="![Microsoft-Outlook](https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca)"
 </a>
 
 <!-- 
