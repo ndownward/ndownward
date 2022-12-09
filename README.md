@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nicola! 👋
+<br>
+I'm a <b>student</b> in the Faculty of <b>Applied Computer Science</b> at <b>Dalhousie Univeristy</b>
 
 <!--
 **ndownward/ndownward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
