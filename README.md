@@ -1,7 +1,7 @@
 ### Hello world, I'm Nicola (she/her)! 👋
-I'm a curious and enthusiastic developer. passionate about learning new skills and exploring new sectors of the tech industry. I thrive under pressure and am always ready for a challenge - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.<br>
+I'm a curious and enthusiastic developer. passionate about learning new skills and exploring new sectors of the tech industry. I thrive under pressure and am always ready for a challenge - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.
 <br>
-Take off your jacket, stay a while!<br>
+Take off your jacket, stay a while!
 <br>
 ## I am...
 ⚡an Applied Computer Science student @ Dalhousie University</li>
@@ -25,7 +25,7 @@ When I'm not on my computer coding away for school, work, or personal projects, 
 ## Don't be shy, let's connect!
 ![LinkedIn](https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward)
 <br>
-<img src="https://camo.githubusercontent.com/9db4232cd852e1b7ec39a8e4cea75ae36113fd61021562e52afb020a46c28c41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6e6e69652e70656e672d3834443746463f7374796c653d666c6174266c6f676f3d4d6963726f736f66742d4f75746c6f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a626f6e6e69652e70656e67407577617465726c6f6f2e6361" alt="Outlook Badge" data-canonical-src="https://img.shields.io/badge/-nicoladownward-84D7FF?style=flat&amp;logo=Microsoft-Outlook&amp;logoColor=white&amp;link=mailto:nicoladownward@dal.ca" style="max-width: 100%;">
+![Outlook](https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=<Outlook>&logoColor=white&link=mailto:nicoladownward@dal.ca)
 
 **ndownward/ndownward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
