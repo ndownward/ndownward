@@ -16,11 +16,11 @@ Data scince: Python, SQL, MongoDB<br>
 
 # Don't be shy, let's connect!
 <a href="www.linkedin.com/in/nicola-downward">
-  img src="![LinkedIn](https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward)"
+  <img src="![LinkedIn](https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward)">
 </a>
 <br>
 <a href="mailto:nicoladownward@dal.ca">
-  img src="![Microsoft-Outlook](https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca)"
+  <img src="![Microsoft-Outlook](https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca)">
 </a>
 
 <!-- 
