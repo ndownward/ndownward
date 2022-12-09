@@ -1,7 +1,8 @@
 ### Hello world, I'm Nicola! 👋
+Pronouns: <code>she/her</code>
 I'm a curious and enthusiastic developer. passionate about learning new skills and exploring new sectors of the tech industry. I thrive under pressure and am always ready for a challenge - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.<br>
 <br>
-Take off your jacket, stay a while!
+:coffee: Take off your jacket, stay a while!
 <br>
 # I am...
 ⚡ An <b>Applied Computer Science</b> student @ <b>Dalhousie University</b><br>
