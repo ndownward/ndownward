@@ -15,7 +15,7 @@ Game Dev: Unity, C#<br>
 Data scince: Python, SQL, MongoDB<br>
 
 # Don't be shy, let's connect!
-<a href="www.linkedin.com/in/nicola-downward">
+<a href="www.linkedin.com/in/nicola-downward" rel="nofollow">
   <img src="https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward">
 </a>
 <a href="mailto:nicoladownward@dal.ca">
