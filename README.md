@@ -19,9 +19,19 @@ I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learnin
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <br>
-<b>Mobile Dev:</b> AndroidStudio, Java<br>
-<b>Game Dev:</b> Unity, C#<br>
-<b>Data scince:</b> Python, SQL, MongoDB<br>
+<b>Mobile Dev:</b> 
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<br>
+<b>Game Dev:</b>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<br>
+<b>Data science:</b>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<br>
 
 # Don't be shy, let's connect!
 <a href="https://www.linkedin.com/in/nicola-downward" rel="nofollow">
