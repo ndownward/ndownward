@@ -11,7 +11,7 @@ I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learnin
 ⚡ An <b>advocate</b> for <b>women in tech</b><br>
 
 # The Tech
-<b>Web Dev:</b> https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white, CSS, Javascript, PHP, React JS, Next JS<br>
+<b>Web Dev:</b> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white", CSS, Javascript, PHP, React JS, Next JS<br>
 <b>Mobile Dev:</b> AndroidStudio, Java<br>
 <b>Game Dev:</b> Unity, C#<br>
 <b>Data scince:</b> Python, SQL, MongoDB<br>
