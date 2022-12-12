@@ -1,16 +1,16 @@
-### Hello world, I'm Nicola! 👋
+## Hello world, I'm Nicola! 👋
 Pronouns: <code>she/her</code>
 <br>
 I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learning new skills and exploring new sectors of the tech industry. I <b>thrive under pressure</b> and am always <b>ready for a challenge</b> - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.<br>
 <br>
 :coffee: Take off your jacket, stay a while!
 <br>
-# I am...
+### I am...
 ⚡ An <b>Applied Computer Science</b> student @ <b>Dalhousie University</b><br>
 ⚡ A <b>front-end developer</b> @ <b>Lockheed Martin</b><br>
 ⚡ An <b>advocate</b> for <b>women in tech</b><br>
 
-# The Tech
+### The Tech
 <b>Web Dev:</b>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,7 +33,7 @@ I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learnin
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <br>
 
-# Don't be shy, let's connect!
+### Don't be shy, let's connect!
 <a href="https://www.linkedin.com/in/nicola-downward" rel="nofollow">
   <img src="https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward">
 </a>
