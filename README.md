@@ -1,7 +1,7 @@
 # Hello world, I'm Nicola! 👋
 Pronouns: <code>she/her</code>
 <br>
-I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learning new skills and exploring new sectors of the tech industry. I <b>thrive under pressure</b> and am always <b>ready for a challenge</b> - especially when it involves working on a team! I aspire to one day be a project manager in the world of software development.<br>
+I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learning new skills and exploring new sectors of the tech industry. I <b>thrive under pressure</b> and am always <b>ready for a challenge</b> - especially when it involves working on a team! I aspire to one day be a project manager in the world of technology.<br>
 <br>
 :coffee: Take off your jacket, stay a while!
 <br>
