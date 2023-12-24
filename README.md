@@ -7,7 +7,6 @@ I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learnin
 <br>
 ## I am...
 ⚡ An <b>Applied Computer Science</b> student @ <b>Dalhousie University</b><br>
-⚡ A <b>front-end developer</b> @ <b>Lockheed Martin</b><br>
 ⚡ An <b>advocate</b> for <b>women in tech</b><br>
 
 ## The Tech
