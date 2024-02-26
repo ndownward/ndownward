@@ -40,7 +40,7 @@ I'm a <b>curious</b> and <b>enthusiastic</b> developer, passionate about learnin
 <a href="https://www.linkedin.com/in/nicola-downward" rel="nofollow">
   <img src="https://img.shields.io/badge/@nicoladownward-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/nicola-downward">
 </a>
-<a href="mailto:nicoladownward@dal.ca">
+<a href="mailto:nicoladownward@gmail.com">
   <img src="https://img.shields.io/badge/nicoladownward-00a2ed?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:nicoladownward@dal.ca">
 </a>
 
